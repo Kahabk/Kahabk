@@ -1,191 +1,291 @@
 <div align="center">
 
-# Mohammed Kahab K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0969da&height=200&section=header&text=Mohammed%20Kahab%20K&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Automation&descAlignY=58&descSize=16&descColor=8b949e" />
 
-### ML Engineer · LLM Systems · MLOps · Distributed AI
-
-*Building production-grade AI systems — from research to real-world deployment.*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedkahab)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/KAHABKALU)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kahabk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahabmohammed319@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahabmohammed319@gmail.com)
+
+<br/>
+
+> *Architecting production AI systems — from distributed training to real-world deployment.*
 
 </div>
 
 ---
 
-## About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm a Machine Learning Engineer with a focus on **LLM infrastructure, MLOps, and scalable AI systems**. I architect and ship end-to-end deep learning pipelines — from distributed training to production inference — with a strong emphasis on efficiency and real-world impact.
+## `$ whoami`
 
-Currently pursuing **BSc in Artificial Intelligence** (Expected 2027), Kerala, India.
+I'm a **Machine Learning Engineer** who builds systems that actually ship — LLM pipelines, distributed training infrastructure, intelligent automation, and research-grade models. I don't just experiment; I deploy.
 
-- 🔬 **Researcher** — Published work on multimodal learning architectures and pharmacomicrobiomics deep learning
-- ⚙️ **Builder** — Engineered a 124M-parameter MoE transformer with DeepSpeed ZeRO optimization
-- 🚀 **Deployer** — Designed production RAG pipelines integrating LLMs with vector databases at scale
-- 🧠 **Systems thinker** — Obsessed with bringing ML models from notebooks to production environments
+Currently pursuing **BSc in Artificial Intelligence** · Kerala, India · Expected 2027
+
+<br/>
+
+```python
+kahab = {
+    "focus"     : ["LLM Infrastructure", "MLOps", "Automation Engineering", "Distributed AI"],
+    "research"  : ["Pharmacomicrobiomics DL", "Multimodal Continual Learning"],
+    "strength"  : "Taking models from research papers to production systems",
+    "hardware"  : "NVIDIA RTX 4060 — squeezing every FLOP",
+    "location"  : "Kerala, India 🇮🇳",
+}
+```
+
+<br/>
+
+| 🔬 Researcher | ⚙️ Builder | 🤖 Automator | 🚀 Deployer |
+|:---:|:---:|:---:|:---:|
+| 2 papers under review | 124M-param MoE Transformer | CRMs · Bots · Scrapers | RAG pipelines at scale |
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tech Stack
 
-**Languages**
+**Core Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **ML & Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **MLOps & Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **LLM & RAG Tooling**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Automation Stack**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🧠 Mixture-of-Experts Transformer
-> *Distributed training · Model parallelism · PyTorch*
+*Distributed Training · Model Parallelism*
 
-Designed and trained a **124M-parameter MoE transformer** from scratch using PyTorch. Implemented **DeepSpeed ZeRO Stage 2 & 3** distributed training, cutting GPU memory usage significantly through optimized model parallelism and gradient sharding. Scaled training across multi-GPU configurations without sacrificing model convergence.
+Designed and trained a **124M-parameter MoE transformer** from scratch. Implemented **DeepSpeed ZeRO Stage 2 & 3**, slashing GPU memory through optimized model parallelism and gradient sharding — scaled across multi-GPU configs without losing convergence.
 
-`PyTorch` `DeepSpeed` `ZeRO Optimization` `Distributed Training` `Transformer Architecture`
+`PyTorch` `DeepSpeed` `ZeRO` `Distributed`
 
----
+</td>
+<td width="50%">
 
 ### 🔍 Production RAG Pipeline
-> *LLM infrastructure · Vector search · Modular inference*
+*LLM Infrastructure · Vector Search*
 
-Built a production-style **Retrieval-Augmented Generation pipeline** integrating LLMs with vector databases. Engineered the full stack — document ingestion, embedding generation, semantic retrieval, and modular inference workflows — using LangChain and LlamaIndex. Designed for extensibility and low-latency query handling.
+Built a production-grade **Retrieval-Augmented Generation pipeline** — full stack from document ingestion and embedding generation to modular low-latency inference. Powers real semantic search on live data.
 
-`LangChain` `LlamaIndex` `FAISS` `ChromaDB` `Semantic Search` `Inference Pipelines`
+`LangChain` `LlamaIndex` `FAISS` `ChromaDB`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### ⚡ LLM Fine-Tuning & Quantization
-> *Parameter-efficient fine-tuning · Low-resource deployment*
+*PEFT · Low-Resource Deployment*
 
-Applied **LoRA and QLoRA** for efficient LLM fine-tuning on domain-specific tasks. Implemented **model quantization (INT8/INT4)** to optimize inference throughput on constrained hardware — achieving significant latency reduction without meaningful accuracy loss.
+Applied **LoRA and QLoRA** for efficient domain-specific fine-tuning. Pushed **INT4/INT8 quantization** for optimized inference on constrained hardware — real latency gains, negligible accuracy loss.
 
-`LoRA` `QLoRA` `PEFT` `Quantization` `HuggingFace Transformers`
+`LoRA` `QLoRA` `PEFT` `Quantization` `HuggingFace`
 
----
+</td>
+<td width="50%">
 
 ### 👁️ Multimodal Vision Assistant
-> *Vision-language models · Image reasoning · Cross-modal fusion*
+*Vision-Language Models · Image Reasoning*
 
-Built a multimodal AI assistant by integrating **vision encoders with language models**, enabling visual understanding tasks including image captioning and scene reasoning. Designed modular encoder-decoder pipelines for flexible multimodal inference.
+Integrated **vision encoders with language models** to build a multimodal assistant capable of image captioning and scene reasoning. Modular encoder-decoder design supports flexible inference routing.
 
-`PyTorch` `OpenCV` `Vision Encoders` `LLM Integration` `Cross-modal Attention`
+`PyTorch` `OpenCV` `Cross-modal Attention`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🎨 Text-to-Image Generation System
-> *Diffusion models · CLIP alignment · Generative AI*
+*Diffusion Models · CLIP Alignment*
 
-Developed a generative AI pipeline for **text-conditioned image synthesis** using diffusion models. Integrated **CLIP-based encoders** to align image and text representations in a shared multimodal embedding space, improving generation coherence.
+Built a generative pipeline for **text-conditioned image synthesis**. Integrated **CLIP encoders** to align visual and textual embeddings in a shared multimodal space for coherent generation.
 
-`Diffusion Models` `CLIP` `Generative AI` `Multimodal Embeddings`
+`Diffusion Models` `CLIP` `Generative AI`
+
+</td>
+<td width="50%">
+
+### 🤖 Intelligent Automation Suite
+*Web Scraping · CRM Bots · Data Pipelines*
+
+Engineered end-to-end automation systems — **web scrapers, CRM integrations, Telegram bots, and scheduled data pipelines** — replacing manual workflows with reliable, zero-touch execution at scale.
+
+`Selenium` `Playwright` `Scrapy` `Airflow` `Bots`
+
+</td>
+</tr>
+</table>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Research
 
-### 📄 MicroDrugNet — Pharmacomicrobiomics Prediction *(Under Review)*
-> Cross-attention fusion for predicting drug bioavailability, therapeutic response, and toxicity via gut microbiome profiling.
+### 📄 MicroDrugNet — Pharmacomicrobiomics Prediction
+`Under Review` &nbsp;·&nbsp; *First open-source end-to-end pharmacomicrobiomics model*
 
-Built the first open-source pharmacomicrobiomics deep learning model. Architected a **Graph Attention Network** for molecular drug encoding fused with a **microbiome MLP encoder** via a novel bidirectional cross-attention mechanism. Trained on 30,000 real drug–microbiome pairs.
+Designed a **Graph Attention Network** (drug encoder) fused with a **microbiome MLP encoder** via a novel **bidirectional cross-attention layer** — simultaneously predicting bioavailability, therapeutic response, and toxicity from a single forward pass. Trained on 30,000 real drug–microbiome pairs on a single RTX 4060.
 
-- Response classification **AUROC: 0.8358**
-- Toxicity prediction **AUROC: 0.9490**
-- Outperformed Random Forest and MLP baselines on all metrics
-- Trained on a single NVIDIA RTX 4060 (8GB VRAM)
+<div align="center">
 
-`GAT` `Cross-Attention` `Multi-task Learning` `Drug Discovery` `PyTorch`
+| Metric | Score | vs. Baseline |
+|:---|:---:|:---:|
+| Response AUROC | **0.8358** | +2.9 pts vs Random Forest |
+| Toxicity AUROC | **0.9490** | Best in class |
+| Bioavailability MAE | **0.0326** | ±3.3% absorption accuracy |
 
----
+</div>
+
+`GAT` `Cross-Attention` `Multi-task Learning` `PyTorch` `Drug Discovery` `Bioinformatics`
+
+<br/>
 
 ### 📄 Cube-Structured Shared Latent Space for Stable Multimodal Learning
-> Architectural solution to catastrophic forgetting in sequential multimodal systems.
+`Published` &nbsp;·&nbsp; *Architectural fix for catastrophic forgetting — no replay, no heavy regularization*
 
-Proposed a **volumetric 3D latent workspace** as a shared representation for modular multimodal learning. Introduced **selective freezing** and Jacobian/Lipschitz-based theoretical guarantees for representational stability — reducing forgetting score from 0.0404 (no freezing) to **0.0017** with the proposed method.
+Proposed a **volumetric 3D latent workspace** as a persistent shared representation for sequential multimodal learning. Introduced **selective freezing** with Jacobian/Lipschitz-based theoretical guarantees for representational stability.
 
-`Continual Learning` `Multimodal Architecture` `3D Convolutions` `Latent Space` `PyTorch`
+<div align="center">
+
+| Strategy | Forgetting Score ↓ |
+|:---|:---:|
+| No Freezing | 0.0404 |
+| Standard Freezing | 0.0277 |
+| **Selective Freezing (Ours)** | **0.0017** |
+
+</div>
+
+`Continual Learning` `3D Convolutions` `Multimodal Architecture` `Latent Space` `PyTorch`
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Automation Engineering
+
+> I build systems that work while you sleep.
+
+```
+Web Scraping      →   Scrapy · Selenium · Playwright · BeautifulSoup
+                      Anti-bot bypass · Proxy rotation · Structured data extraction
+
+Data Pipelines    →   Airflow · Pandas · ETL workflows · Scheduled jobs
+                      API ingestion · Data cleaning · Automated database writes
+
+CRM Automation    →   Lead enrichment · Auto-outreach · CRM sync workflows
+                      Contact management · Pipeline tracking · Notification bots
+
+DevOps & CI/CD    →   GitHub Actions · Docker · Bash scripting
+                      Auto-deploy · Environment management · Config-driven pipelines
+
+Bots              →   Telegram bots · Discord bots · Real-time alerting systems
+                      Event-driven triggers · Workflow orchestration
+```
 
 ---
 
-## Deployment & Infrastructure
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Deployment & MLOps
 
 ```
-Training    →   DeepSpeed ZeRO (Stage 2 & 3) · Mixed Precision (FP16/BF16)
-                Gradient Checkpointing · Model Parallelism
+Training          →   DeepSpeed ZeRO (Stage 2 & 3)  ·  Mixed Precision FP16/BF16
+                      Gradient Checkpointing  ·  Model Parallelism  ·  AMP
 
-Experiment  →   MLflow · Weights & Biases · Custom Eval Pipelines
-Tracking        Hyperparameter Sweep · Reproducible Runs
+Experiment        →   MLflow  ·  Weights & Biases  ·  Custom eval pipelines
+Tracking              Hyperparameter sweeps  ·  Reproducible runs
 
-Inference   →   Quantized Models (INT8/INT4) · Optimized Batch Inference
-                ONNX Export · Low-latency Serving
+Inference         →   Quantized models (INT4/INT8)  ·  Optimized batch inference
+                      ONNX export  ·  Low-latency serving
 
-Packaging   →   Docker · Linux (Ubuntu) · Bash Automation
-                Modular Codebase · Config-driven Pipelines
+Packaging         →   Docker  ·  Linux (Ubuntu)  ·  Bash automation
+                      Modular codebases  ·  Config-driven pipelines  ·  GitHub Actions
 ```
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahabk&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahabk&layout=compact&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kahabk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0969da&icon_color=0969da&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahabk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0969da&text_color=c9d1d9"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kahabk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0969da&fire=0969da&currStreakLabel=0969da)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/mohammedkahab](https://linkedin.com/in/mohammedkahab) |
-| 🤗 HuggingFace | [huggingface.co/KAHABKALU](https://huggingface.co/KAHABKALU) |
-| 🐙 GitHub | [github.com/Kahabk](https://github.com/Kahabk) |
-| 📧 Email | kahabmohammed319@gmail.com |
-| 📞 Phone | +91 9946217945 |
-
----
+## Let's Connect
 
 <div align="center">
 
-*"From research to production — building AI systems that work in the real world."*
+| 💼 LinkedIn | 🤗 HuggingFace | 🐙 GitHub | 📧 Email |
+|:---:|:---:|:---:|:---:|
+| [mohammedkahab](https://linkedin.com/in/mohammedkahab) | [KAHABKALU](https://huggingface.co/KAHABKALU) | [Kahabk](https://github.com/Kahabk) | [kahabmohammed319@gmail.com](mailto:kahabmohammed319@gmail.com) |
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kahabk&color=0969da&style=flat-square)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,50:1a1f2e,100:0d1117&height=120&section=footer&text=Building%20AI%20that%20ships.&fontSize=20&fontColor=8b949e&fontAlignY=65"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kahabk&color=0969da&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
