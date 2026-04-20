@@ -297,7 +297,7 @@ Packaging         →   Docker  ·  Linux (Ubuntu)  ·  Bash automation
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,50:1a1f2e,100:0d1117&height=120&section=footer&text=Building%20AI%20that%20ships.&fontSize=20&fontColor=8b949e&fontAlignY=65"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kahabk&color=0969da&style=for-the-badge&label=PROFILE+VIEW)](https://kahab.vercel.app/)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://kahab.vercel.app/)
 </div>
