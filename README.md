@@ -8,7 +8,8 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/KAHABKALU)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kahabk)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahabmohammed319@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://kahab.vercel.app/)
+[![X](https://img.shields.io/badge/X-@MKahabk-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MKahabk)
 <br/>
 
 > *Architecting production AI systems — from distributed training to real-world deployment.*
